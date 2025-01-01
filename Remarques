@@ -1,0 +1,3 @@
+Vous devez utiliser une seule approche (La meilleure) pour résoudre ce problème. 
+Si vous voulez garder ACO vous devez respecter l'algorithme de cette métaheuristique. 
+La méthode de recheche locale (par exemple SA ou autres) doit être appelée à l'intérieur de ACO.
